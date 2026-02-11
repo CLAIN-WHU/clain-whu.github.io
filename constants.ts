@@ -162,7 +162,7 @@ export const STATIC_DATA = {
       category: "Teachers",
       title: "Professor of Computer Science, University of Manchester",
       titleZh: "英国曼彻斯特大学计算机科学教授",
-      avatar: " ./assets/img_4b02ebda8304.png",
+      avatar: " ./assets/img_Sophia_Ananiadou.jpg",
       email: "sophia.ananiadou@manchester.ac.uk",
       homepage: "https://research.manchester.ac.uk/en/persons/sophia.ananiadou",
       bio: "Sophia Ananiadou is a Professor in Computer Science at the University of Manchester and Director of the National Centre for Text Mining (NaCTeM), the world's first publicly funded text mining centre, and an adjunct professor at Wuhan University. She is a leading expert in biomedical text mining and natural language processing, with interdisciplinary contributions to knowledge discovery, automated systematic reviews, and AI applications in biomedicine. She is a Turing Fellow, ELLIS Fellow, and has been ranked #1 internationally in text mining.",
