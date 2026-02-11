@@ -35,7 +35,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="https://github.com/WHUNextGen"
+                  href="https://github.com/CLAIN-WHU"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-2 hover:text-brand-tech transition-colors"
